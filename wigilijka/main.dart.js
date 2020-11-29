@@ -56477,7 +56477,7 @@ F.H7.prototype={
 M:function(a,b){var s,r=null
 X.aaH(new X.ij(K.aq(b).b,r,C.M,C.aO,r,C.M))
 s=K.aq(b).b
-return M.aau(E.a8b(r,!0,0,L.d3("Zadania z matematyki",r,r,r,B.f0(r,r,r),r)),s,B.a9e(new F.a10(this),this.d,t.kj))}}
+return M.aau(E.a8b(r,!0,0,L.d3("Wigilijka",r,r,r,B.f0(r,r,r),r)),s,B.a9e(new F.a10(this),this.d,t.kj))}}
 F.a10.prototype={
 $2:function(a,b){var s,r=null
 if(b.b!=null)return B.a9e(new F.a1_(this.a),F.a4w(),t.X)
